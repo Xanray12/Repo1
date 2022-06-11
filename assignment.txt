@@ -1,0 +1,13 @@
+Given a positive integer NUM, find a pair of integers a, b such that
+- a and b are positive
+- a <= b
+- a^2 + b^2 = NUM
+- 0<=NUM<=100000
+
+Input - 50
+Output - (1,7) , (5,5)
+Explanation -
+1^2 + 7^2 = 50
+5^2 + 5^2 = 50
+2) Create a program to print all the palindromes under 50.
+Palindrome - A number which read same from backwards as well as forwards
